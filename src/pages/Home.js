@@ -96,55 +96,7 @@ export default function Home(){
 </div>
 
     </div>
-    <div className="hero min-h-screen bg-base-200" id='hero2'>
- 
-    <div className="about">
-    <div className='column'>
-        <h3>WHY CHOOSE US</h3>
-        <h1>We provide <br></br>  <span>
-        Perfect IT Solutions
-            </span> <br></br>
-            For Your Business </h1>
-
-            <div className="split flex flex-col w-full lg:flex-row">
-  <div className="dance grid flex-grow h-40 card rounded-box place-items-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,
-  </div> 
-  <div className="divider lg:divider-horizontal"></div> 
-  <div className="dance grid flex-grow h-40 card  rounded-box place-items-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,
-  </div></div>
-    </div>
-    <div className='columns'>
-    <div tabIndex={0} className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div className="collapse-title text-xl font-medium">
-  Consultation Service To Achieve Big Goal
-  </div>
-  <div className="collapse-content">
-    <p className='col-p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-  </div>
-</div>
-<div tabIndex={0} className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div className="collapse-title text-xl font-medium">
-  Training To Make Sure Well Deliver To End User
-  </div>
-  <div className="collapse-content">
-    <p className='col-p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-  </div>
-</div>
-<div tabIndex={0} className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box">
-  <div className="collapse-title text-xl font-medium">
-  Controlling Accompaniment While We Go!
-  </div>
-  <div className="collapse-content">
-    <p className='col-p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-  </div>
-</div>
-    </div>
-</div>
-
-    </div>
- 
+  
   </div>
 
     )
